@@ -1,0 +1,33 @@
+* {
+    background-color: seashell;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(19, 5, 70);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: 42%;
+    margin-right: auto;
+}
+
+h3 {
+    text-align: center;
+    color: slategray;
+}
+
+p {
+    position: relative;
+    left: 12%;
+}
+
+li {
+    display: block;
+    position: relative;
+    left: 10%
+}
